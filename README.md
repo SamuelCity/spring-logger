@@ -14,6 +14,7 @@ These libraries feature:
 - [ ] Add a more comprehensive test suite for features
 - [ ] Add an annotation processor to error compilation when `toString` hasn't been overridden on objects annotated with `@Obscure`
 - [ ] Add more test functionality to `spring-logger-test`, including assertion helpers
+- [ ] Pipeline (GitHub Actions) and publish process
 
 ## Setup
 It's easy to get started with Go City - Spring Logger. Simply add the following to your `build.gradle` under dependencies:
