@@ -1,0 +1,4 @@
+rootProject.name = 'spring-logger-dist'
+
+include 'spring-logger'
+include 'spring-logger-test'
